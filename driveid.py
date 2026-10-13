@@ -1,5 +1,4 @@
 import os
-os.environ["CINEMAGOER_DB_URI"] = "sqlite:///:memory:"
 
 import re
 
